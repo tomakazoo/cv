@@ -1,7 +1,7 @@
 import React from "react";
 import { FaPlus, FaTag } from "react-icons/lib/fa";
 
-import Coffee from "../assets/images/portfolio/claritas.jpg";
+import Coffee from "../assets/images/portfolio/Claritas.jpg";
 import Console from "../assets/images/portfolio/scrummastertb.jpg";
 import Judah from "../assets/images/portfolio/MicrosoftProfDev.jpg";
 import IntoTheLight from "../assets/images/portfolio/tomakazoo.png";
