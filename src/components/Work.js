@@ -31,7 +31,7 @@ const Work = () => (
           </p>
 
           <p>
-            Project: FODL (Finance Operational Data Layer) <br/>
+            <b>Project:</b> FODL (Finance Operational Data Layer) <br/>
             Description: UI using React with Redux (Facebook library using JavaScript - ECMAScript 6), Microservices architecture, .NET Core WEB API, Event sourcing by using Kafka Distributed Streaming Platform (LinkedIn distributed messaging system), Authentication using OpenID Connect and OAuth 2.0 framework for ASP.NET Core, Service Fabric, Automatic deployment using TFS and Octopus.<br/>
             Project tools: C#, JavaScript/ECMAScript 6, React with Redux,   <br/>
             <br/>
