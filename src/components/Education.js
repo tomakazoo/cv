@@ -12,11 +12,11 @@ const Education = () => (
       <div className="row item">
         <div className="twelve columns">
           <h3>University of Belgrade, Faculty of Mechanical Engineering</h3>
-          <p className="info">
+          <h5 className="info">
             Master in Industrial Engineering
             <span>&bull;</span>
             <em className="date">December 1996</em>
-          </p>
+          </h5>
 
           <p>
           The Master in Industrial Engineering curriculum is programmed to provide the skills required by modern industrial engineers, 
@@ -34,11 +34,11 @@ const Education = () => (
       <div className="row item">
         <div className="twelve columns">
           <h3>University of Belgrade, Faculty of Mechanical Engineering</h3>
-          <p className="info">
+          <h5 className="info">
             Bachelor of Science in Mechanical Engineering (Industrial Engineering)
             <span>&bull;</span>
             <em className="date">September 1994</em>
-          </p>
+          </h5>
 
           <p>
             Industrial engineering is concerned with the development, improvement, 
