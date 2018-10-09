@@ -10,13 +10,13 @@ const Skills = () => (
 
     <div className="nine columns main-col">
       <p>
-      <h6>Languages:</h6> C#, VB.NET, Java Script, VB6, VB Script, HTML, FiveWin, T-SQL, PL SQL <br />
- Operating Systems: MS-Windows 10/7/Vista/XP/2000/NT/Me/98, Windows CE, MS-DOS<br />
- Databases: MS SQL, Oracle, MySQL<br />
+      <h6>Languages:</h6> Mother tongue: Serbian; Fluent: English and French; Basic: Luxembourgish (level A2) <br /> 
+      <h6>Programming Languages:</h6> C#, VB.NET, Java Script, VB6, VB Script, HTML, FiveWin, T-SQL, PL SQL <br />
+      <h6>Operating Systems:</h6> MS-Windows 10/7/Vista/XP/2000/NT/Me/98, Windows CE, MS-DOS<br />
+      <h6>Databases:</h6> MS SQL, Oracle, MySQL<br />
 <h6> Versioning controls:</h6> Visual Source Safe VSS, Team Foundation Server TFS<br />
-<h6> Development Tools:</h6> MS Visual Studio .NET 2003/2005/2008/2010/2012/2013/2015/2017, MS
-Visual Studio 6, Kafka<br />
-<h6> Deployment Tools:</h6> Octopus<br />
+<h6> Development Tools:</h6> MS Visual Studio .NET 2003/2005/2008/2010/2012/2013/2015/2017, VS Code, Kafka<br />
+<h6> Deployment Tools:</h6> Octopus, TFS<br />
 <h6> Case Tools:</h6> Erwin, Rational Rose, MS Visio<br />
 <h6> Other:</h6> Microservices SOA, .NET Framework 1-6,.NET Core, Topshelf, IIS, ASP.NET, ASP.NET
 MVC 1.0-4, Silverlight 4/5, WCF, Ajax, JQuery, LINQ, Entity Framework, XML, XSLT, XSD
