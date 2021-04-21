@@ -25,9 +25,17 @@ const Work = () => (
           </p>
           <h3><a href="https://www.schroders.com/en/lu/professional-investor/">Schroder Investment Management (Europe) S.A.</a> </h3>
           <h5 className="info">
+            Corporate Capability Lead
+            <span>&bull;</span>
+            <em className="date">August 2018 - Present</em>
+          </h5>
+          <p>
+          Leading and Managing Dev teams. Mentoring and guiding the team of software engineers and making sure that technical projects are completed in time. Providing technical support to team members and members of other departments integral to the successful completion of modules. Collaborating with many stakeholders in the company to drive product decisions. Successfully implemented solutions using Agile (SCRUM) Methodology by playing the roles of Product Owner as well as Scrum Master in different projects. Having an excellent track record of successfully managing small to large projects from conception to completion with strong leadership, managerial, analytical and technical skills.
+          </p>
+          <h5 className="info">
             Principal Analyst Developer
             <span>&bull;</span>
-            <em className="date">April 2007 - Present</em>
+            <em className="date">April 2007 - August 2018</em>
           </h5>
           <p>
             <h6>Project: </h6> FODL (Finance Operational Data Layer)
